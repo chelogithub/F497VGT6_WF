@@ -17,7 +17,7 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
-//Test Git sarasa
+//Test Git sar
 #include "main.h"
 
 /* Private includes ----------------------------------------------------------*/
